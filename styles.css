@@ -1,0 +1,192 @@
+*{
+    margin:0px;
+    box-sizing:border-box;
+}
+.top-section{
+    background-color:#FFCD9E;
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+    align-items:center;
+    height:65vh;
+    padding-left:100px;
+    padding-right:100px;
+}
+/* .top-left-section{
+    width:65%;
+}
+.top-right-section{
+    width:35%;
+} */
+.person-image-size {
+    width: 360px;
+    height: 375px;
+}
+
+.main-heading{
+    color: #282828;
+    font-family: Inter;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 150%;
+    width:580px;
+    margin-bottom:20px;
+}
+.description{
+    color: #484848;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 160%;
+    width:490px;
+    margin-bottom: 20px;
+}
+.short-info{
+    color: #282828;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 160%;
+    margin-bottom: 20px;
+}
+.form-class{
+    margin-bottom: 20px;
+}
+.email-input{
+    color: #888;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 160%;
+    padding:9px 18px;
+    border-radius: 8px;
+    border: 4px solid #000;
+    background: #FFF;
+    margin-right:10px;
+}
+.register-now-button{
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    background: #282828;
+    padding:9px 21px;
+    border:none;
+    border-radius:8px;
+    height:55px;
+    width:200px;
+}
+.caption{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 160%;
+    margin-left:30px;
+}
+.bottom-section {
+    background-color: #282828;
+    height: 35vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items:center;
+    padding-left:100px;
+    padding-right:100px;
+}
+
+.bottom-section li{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 160%;
+}
+.icons-list-item{
+    text-align:right;
+}
+.image-container{
+    position:relative;
+}
+.left-eyebrow{
+    position:absolute;
+    top:80px;
+    left:150px;
+}
+.right-eyebrow{
+    position: absolute;
+    top: 80px;
+    right:140px;
+}
+.right-eye{
+    position: absolute;
+    top: 90px;
+    right:148px;
+}
+.left-eye{
+    position: absolute;
+    top:90px;
+    left: 158px;
+}
+.nose{
+    position: absolute;
+    top:90px;
+    left:178px;
+}
+.mostuchae-1{
+    position: absolute;
+    top: 135px;
+    left: 168px;
+}
+.mostuchae-2 {
+    position: absolute;
+    top: 135px;
+    left: 173px;
+}
+.mostuchae-3 {
+    position: absolute;
+    top: 135px;
+    left: 178px;
+}
+
+.mostuchae-4 {
+    position: absolute;
+    top: 135px;
+    left: 183px;
+}
+.mostuchae-5 {
+    position: absolute;
+    top: 135px;
+    left: 187px;
+}
+.mostuchae-6 {
+    position: absolute;
+    top: 135px;
+    left: 192px;
+}
+.mostuchae-7 {
+    position: absolute;
+    top: 135px;
+    left: 197px;
+}
+.mouth{
+    position: absolute;
+    top: 145px;
+    left: 173px;
+}
+ul{
+    list-style-type: none;
+    margin:0px;
+    padding:0px;
+}
+
+
